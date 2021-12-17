@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MemeCatList</string>
+
+    <string-array name="everglow_name">
+        <item>Yiren</item>
+        <item>Aisha</item>
+        <item>SiHyeon</item>
+        <item>Onda</item>
+        <item>Mia</item>
+        <item>E:U</item>
+    </string-array>
+
+    <string-array name="everglow_role">
+        <item>Lead Dancer</item>
+        <item>Main Rapper</item>
+        <item>Lead Vocalist</item>
+        <item>Lead Dancer</item>
+        <item>Main Dancer</item>
+        <item>Main Rapper</item>
+    </string-array>
+</resources>
